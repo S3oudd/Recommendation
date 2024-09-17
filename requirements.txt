@@ -1,4 +1,4 @@
-streamlit 
-pickle 
-pandas 
-requests
+pandas==2.2.2
+Requests==2.32.3
+streamlit==1.38.0
+pickle==3.8
